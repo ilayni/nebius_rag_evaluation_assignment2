@@ -22,6 +22,8 @@ __pycache__/
 *.csv
 *.xlsx
 *.xls
+# ...except this assignment's result workbooks (graded deliverables)
+!assignment2_*.xlsx
 *.zip
 *.tar
 *.tar.gz

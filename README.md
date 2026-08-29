@@ -9,9 +9,10 @@ baselines, iterative improvement cycles, and RAGAS-based evaluation.
 |---|---|
 | `assignment2_rag_ilay_nisim_boris_kogan.ipynb` | Full pipeline: retrieval, generation, improvement cycles, evaluation |
 
-> The accompanying `.xlsx` result workbooks (naive generation, run-and-compare,
-> improvement cycles, evaluation) are intentionally **not** committed — they are
-> generated artifacts and are covered by `.gitignore`.
+| `assignment2_naive_generation_*.xlsx` | Baseline (no retrieval) generation results |
+| `assignment2_run_and_compare_*.xlsx` | Side-by-side run comparison |
+| `assignment2_improvement_cycles_*.xlsx` | Iterative improvement cycle results |
+| `assignment2_evaluation_*.xlsx` | RAGAS evaluation scores |
 
 ## Setup
 
